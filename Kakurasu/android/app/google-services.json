@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6784481882",
+    "firebase_url": "https://kakurasu-3eb4d.firebaseio.com",
+    "project_id": "kakurasu-3eb4d",
+    "storage_bucket": "kakurasu-3eb4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6784481882:android:6ae55ef85ea2dafabc7663",
+        "android_client_info": {
+          "package_name": "de.nilsbaumgartner.kakurasu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6784481882-52e6t3c571epic9ubo0rl5ok72t2f1o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YuhrulH9fkqJa8pMVgy0RruORrH7CIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6784481882-52e6t3c571epic9ubo0rl5ok72t2f1o9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6784481882-83ukf0m40ni3b0h1ns3dif8ldpsh0eki.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.nilsbaumgartner.kakurasu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

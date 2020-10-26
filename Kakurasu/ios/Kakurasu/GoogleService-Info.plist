@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6784481882-83ukf0m40ni3b0h1ns3dif8ldpsh0eki.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6784481882-83ukf0m40ni3b0h1ns3dif8ldpsh0eki</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFZJrShIamnsKRg2GgXpckT8DSEyuBhT4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6784481882</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>de.nilsbaumgartner.kakurasu</string>
+	<key>PROJECT_ID</key>
+	<string>kakurasu-3eb4d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kakurasu-3eb4d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6784481882:ios:cb5f0fe6968b220bbc7663</string>
+	<key>DATABASE_URL</key>
+	<string>https://kakurasu-3eb4d.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-8536961271956342~6286230264</string>
+</dict>
+</plist>
